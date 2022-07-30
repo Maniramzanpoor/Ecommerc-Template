@@ -1,4 +1,4 @@
 # Ecommerc-Template 
-Desgin by ManiRamezanpour 
+this project using tailwindcss,postcss and alphine js
 
-this is a Tailwind Practice Project
+project desgin from the figma file and coding by me
